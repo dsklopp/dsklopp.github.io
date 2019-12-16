@@ -16,10 +16,15 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
+    dan:
       name:           dan
       site:           https://github.com/dsklopp/testwebsite
       bio:            "Hi, I am Dan, I'm some guy on the internet"
+
+    sal:
+      name:           sal
+      site:           https://github.com/dsklopp/testwebsite
+      bio:            "Hi, I am Sal, I'm some gal on the internet"
  
 # Defaults
 defaults:
